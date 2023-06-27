@@ -1,8 +1,8 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-/*ÇÕ
+/*í•©
 1 <= n <= 10000
-1ºÎÅÍ n±îÁö ÇÕ Ãâ·Â*/
+1ë¶€í„° nê¹Œì§€ í•© ì¶œë ¥*/
 int main(void)
 {
 	int n, i;
