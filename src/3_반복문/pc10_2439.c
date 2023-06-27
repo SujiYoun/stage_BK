@@ -1,11 +1,11 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-/*º°Âï±â - 2
+/*º° Âï±â - 2
     *
    **
   ***
  ****
-***** 
+*****
 */
 int main(void)
 {
