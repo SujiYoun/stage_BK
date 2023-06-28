@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 /*A + B - 5
-0 0юл ют╥б╣г╦И ╠в╦╦*/
+0 0Л²╢ Л·┘К═╔К░≤К╘╢ Й╥╦К╖▄*/
 int main(void)
 {
 	int A, B;

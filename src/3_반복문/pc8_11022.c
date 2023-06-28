@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 /*A + B - 8
-T ев╫╨ф╝ диюл╫╨ ╟Ё╪Ж
+T М┘▄Л┼╓М┼╦ Л╪─Л²╢Л┼╓ Й╟°Л┬≤
 "Case #x: A + B = C"*/
 int main(void)
 {

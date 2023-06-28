@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-/*90~100: A, 80~89 : B, 70~79 : C, 60~69 : D, ³ª¸ÓÁö F*/
+/*90~100: A, 80~89 : B, 70~79 : C, 60~69 : D, ë‚˜ë¨¸ì§€ F*/
 int main(void)
 {
 	int score;
